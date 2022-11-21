@@ -56,7 +56,7 @@
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
 	                        	 <li><a href="${contextPath}/login">LOGIN - Surendra</a></li>
-	                        	 <li><a href="${contextPath}/registration">SIGN UP</a></li>
+	                        	 <li><a href="${contextPath}/registration">SIGN UP - ASPATHI</a></li>
 	                       	 	</ul>
                             </div>
                             

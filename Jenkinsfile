@@ -1,11 +1,10 @@
 pipeline {
-    agent { docker { image 'maven:3.3.3' } }
+    agent any
     stages {
         stage('Test') {
             steps {
                 echo 'Hello World!!!'
                 sh 'git --version'
-                sh 'mvn --version'
             }
         }
     }
